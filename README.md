@@ -2,7 +2,7 @@
 
 Mockup funcional e interactivo para centralizar la gestión de talento y RRHH del grupo empresarial.
 
-## Módulos
+## Módulos incluidos
 
 - Solicitudes y necesidades de personal
 - Captación de candidatos y matching mediante IA
